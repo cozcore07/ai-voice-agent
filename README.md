@@ -1,4 +1,5 @@
-🤖 AI Voice Appointment Scheduler for Dental Clinics
+# **🤖 AI Voice Appointment Scheduler for Dental Clinics**
+
 Creating an AI-powered voice appointment scheduler involves integrating voice recognition, natural language processing, and real-time scheduling APIs. This project provides a foundational implementation of an AI voice assistant tailored for dental clinics, designed to understand spoken commands, check appointment availability, and schedule visits via seamless integration with Praktika or similar software.
 
 ✅ 1. Project Scope Overview
